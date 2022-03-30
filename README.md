@@ -16,6 +16,14 @@
   🚀 FrontEnd Developer Student at <b>Rocketseat</b> &nbsp; 🎯 Focused in <b>ReactJS</b>
 </p>
 <br>
-<div class="center">
-  ![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+<div align="center">
+  <a href="#"><img title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
+  <a href="#"><img title="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></a>
+  &nbsp;<a href="#"><img title="Javascript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
+  &nbsp;&nbsp;<a href="#"><img title="ReactJS" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+  &nbsp;&nbsp;<a href="#"><img title="NextJS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+  &nbsp;&nbsp;<a href="#"><img title="NodeJS" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+  &nbsp;&nbsp;<a href="#"><img title="Typescript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  &nbsp;&nbsp;<a href="#"><img title="TailwindCSS" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+  &nbsp;&nbsp;<a href="#"><img title="Git" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
