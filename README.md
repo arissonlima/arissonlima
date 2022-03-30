@@ -32,15 +32,22 @@
   <a
     href="https://web.whatsapp.com/send?phone=+5588999858740" 
     alt="WhatsApp"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/arissonlima" 
     alt="LinkedIn"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a
+    href="https://www.instagram.com/arissonlima" 
+    alt="Instagram"
+    target="_blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-28A745?style=flat&logo=Instagram&logoColor=white" />
   </a>
 </div>
