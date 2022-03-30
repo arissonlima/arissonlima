@@ -27,3 +27,20 @@
   &nbsp;&nbsp;<a href="#"><img title="TailwindCSS" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
   &nbsp;&nbsp;<a href="#"><img title="Git" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 </div>
+<br>
+<div align="center">
+  <a
+    href="https://web.whatsapp.com/send?phone=+5588999858740" 
+    alt="WhatsApp"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/arissonlima" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+</div>
