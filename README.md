@@ -25,11 +25,6 @@
 </div>
 <br>
 <div align="center">
-  <a
-    href="https://web.whatsapp.com/send?phone=+5588999858740" 
-    alt="WhatsApp"
-    target="_blank"
-  >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
