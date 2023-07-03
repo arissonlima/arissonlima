@@ -7,7 +7,7 @@
   📌 Living in <b>Morada Nova</b>, <b>Ceará</b>, <b>Brazil</b>
 </p>
 <p align="center">
-  📚 Graduate in <b>Técnico em Informática</b> pelo <b>Instituto Federal de Educação, Ciência e Tecnologia do Ceará</b> &nbsp;
+  📚 Graduate in <b>Computer Technician</b> from the <b>Federal Institute of Education, Science and Technology of Ceará</b> &nbsp;
 </p>
 <p align="center">
   🚀 FrontEnd Developer Student at <b>Rocketseat</b> &nbsp; 🎯 Focused in <b>ReactJS</b>
