@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Arisson Lima, tenho 36 anos, sou natural de Morada Nova no Ceará. Concluí o Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Concluí também uma formação de Front-end com duração de 6 meses ministrada pela Alura em parceria com o Santander. Atualmente atualizo meus conhecimentos em desenvolvimento Front-end nas plataformas Origamid e Rocketseat. Sou apaixonado por tecnologia e por livros.
+Me chamo Arisson Lima, tenho 36 anos, sou natural de Morada Nova no Ceará. Concluí o Técnico em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Concluí também uma formação de Front-end com duração de 6 meses ministrada pela Alura em parceria com a Oracle. Atualmente atualizo meus conhecimentos em desenvolvimento Front-end nas plataformas Origamid e Rocketseat. Sou apaixonado por tecnologia e por livros.
 
 <p align="left">
     <a href="https://github.com/arissonlima?tab=repositories&sort=stargazers">
